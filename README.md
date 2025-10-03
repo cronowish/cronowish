@@ -27,7 +27,7 @@
 ---
 
 ### 💻 Coding Highlights
-<p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronowish&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117"/></p>
+<p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronowish&layout=compact&hide_border=true&title_color=#2F80ED&text_color=111111&bg_color=FFFFFF"/></p>
 <!--<h4 align="center">GitHub Stats</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=feelipemarques&show_icons=true&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
